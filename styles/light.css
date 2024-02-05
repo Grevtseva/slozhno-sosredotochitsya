@@ -51,10 +51,10 @@
   }
 
   .title-decor {
-    color: currentColor;
+    color: var(--bg-color, gray);
   }
 
   .section__title {
-    color: currentColor;
+    color: var(--accent-color-secondary, #FF0070);
   }
 }
